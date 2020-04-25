@@ -6,5 +6,5 @@ These boards base their operation on the ATMEL microcontrollers used in the Ardu
 
 This is a project that is currently under development, so the plates shown here have not yet been polished in terms of design and structure of their components, however, each one is fully functional and has been physically and different simulations.
 
-![Logo of the organization RCKElectronic's](https://raw.githubusercontent.com/Reiken3099/ArduPLC/master/Imagenes/RCKElectronic's.jpg)
+![Logo of the organization RCKElectronic's](https://raw.githubusercontent.com/Reiken3099/ArduPLC/master/Imagenes/RCKElectronic's.jpg)           ![Logo of the proyect](https://raw.githubusercontent.com/Reiken3099/ArduPLC/master/Imagenes/ArduPLC.jpg)
 
